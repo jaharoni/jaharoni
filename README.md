@@ -1,17 +1,17 @@
 ### Justin Aharoni
 **Principal Full-Stack & Systems Engineer · Creative Technologist & Visual Storyteller**  
-New York · [justinaharoni.com](https://justinaharoni.com) · [jaharoni.com](https://jaharoni.com) · [inceptionengine.systems](https://inceptionengine.systems) · [Hugging Face (@jaharoni)](https://huggingface.co/jaharoni)
+New York · [justinaharoni.com](https://justinaharoni.com) · [inceptionengine.systems](https://inceptionengine.systems) · [Hugging Face (@jaharoni)](https://huggingface.co/jaharoni)
 
 Architecting high-concurrency distributed systems, applied AI & Model Context Protocol (MCP) infrastructure, spatial computing, and visual storytelling across Python, Rust, Go, TypeScript/React, C/C++, and Ruby.
 
 ---
 
-### Personal Websites & Direct Contact Directory
+### Personal Website & Direct Contact Directory
 
 | Channel | Direct Link / Address | Scope |
 | :--- | :--- | :--- |
-| **Personal Website & Visual Portfolio** | **[justinaharoni.com](https://justinaharoni.com)** / **[jaharoni.com](https://jaharoni.com)** | Commercial photography, filmmaking, essays & fine art |
-| **Live Studio Calendar & Booking** | **[justinaharoni.com/contact](https://justinaharoni.com/contact)** ([/book](https://justinaharoni.com/book)) | Live Google Meet scheduling & project briefs |
+| **Personal Website & Visual Portfolio** | **[justinaharoni.com](https://justinaharoni.com)** | Commercial photography, filmmaking, essays & fine art |
+| **Live Studio Calendar & Booking** | **[justinaharoni.com/contact](https://justinaharoni.com/contact)** | Live Google Meet scheduling & project briefs |
 | **Unified Contact Directory** | **[inceptionengine.systems/contact](https://inceptionengine.systems/contact)** | All personal, studio & engineering contact channels in one place |
 | **Direct Email** | `justin.aharoni@inceptionengine.systems` · `contact@jaharoni.com` · `jaharoni@gmail.com` | Engineering sprints, open-source & creative commissions |
 | **Direct Studio Phone** | `+1 (631) 494-2331` | New York · North Fork / Hudson Valley · Worldwide |
