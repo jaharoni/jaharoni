@@ -1,6 +1,6 @@
 ### Justin Aharoni
 **Principal Full-Stack & Systems Engineer · Creative Technologist & Visual Storyteller**  
-New York · [justinaharoni.com](https://justinaharoni.com) · [inceptionengine.systems](https://inceptionengine.systems) · [Hugging Face (@jaharoni)](https://huggingface.co/jaharoni)
+New York · [justinaharoni.com](https://justinaharoni.com) · [justinaharoni.com](https://justinaharoni.com) · [Hugging Face (@jaharoni)](https://huggingface.co/jaharoni)
 
 Architecting high-concurrency distributed systems, applied AI & Model Context Protocol (MCP) infrastructure, spatial computing, and visual storytelling across Python, Rust, Go, TypeScript/React, C/C++, and Ruby.
 
@@ -12,9 +12,9 @@ Architecting high-concurrency distributed systems, applied AI & Model Context Pr
 | :--- | :--- | :--- |
 | **Personal Website & Visual Portfolio** | **[justinaharoni.com](https://justinaharoni.com)** | Commercial photography, filmmaking, essays & fine art |
 | **Live Studio Calendar & Booking** | **[justinaharoni.com/contact](https://justinaharoni.com/contact)** | Live Google Meet scheduling & project briefs |
-| **Unified Contact Directory** | **[inceptionengine.systems/contact](https://inceptionengine.systems/contact)** | All personal, studio & engineering contact channels in one place |
-| **Direct Email** | `justin.aharoni@inceptionengine.systems` · `contact@jaharoni.com` · `jaharoni@gmail.com` | Engineering sprints, open-source & creative commissions |
-| **Direct Studio Phone** | `+1 (631) 494-2331` | New York · North Fork / Hudson Valley · Worldwide |
+| **Unified Contact Directory** | **[justinaharoni.com/contact](https://justinaharoni.com/contact)** | All personal, studio & engineering contact channels in one place |
+| **Direct Email** | `contact@jaharoni.com` · `contact@jaharoni.com` · `contact@jaharoni.com` | Engineering sprints, open-source & creative commissions |
+| **Direct Studio Phone** | New York · North Fork / Hudson Valley · Worldwide |
 | **Open-Source Engineering Lab** | **[github.com/WholeTroutMedia/open-source-bounties](https://github.com/WholeTroutMedia/open-source-bounties)** | 100% patch-covered upstream PRs, case studies & sprint catalog |
 | **Social & Professional** | [LinkedIn](https://www.linkedin.com/in/justinaharoni) · [Instagram (@justinaharoni)](https://instagram.com/justinaharoni) · [X (@justinaharoni)](https://x.com/justinaharoni) · [Google AI Forum (@CORTEX)](https://discuss.ai.google.dev/u/CORTEX) | Updates, essays & developer community solutions |
 
