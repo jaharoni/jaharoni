@@ -27,4 +27,5 @@ Architecting high-concurrency distributed systems, applied AI & Model Context Pr
 - **[Obsidian Raindrop Plugin](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin)** ([#103](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin/pull/103)): Real-time knowledge management and vault sync. Zod schema transform for shared bookmarks, merged upstream.
 - **[OpenHMD](https://github.com/OpenHMD/OpenHMD)** ([#370](https://github.com/OpenHMD/OpenHMD/pull/370)): CMake 4.0 policy range compatibility fix for native C VR runtime, merged upstream.
 - **[Uvicorn](https://github.com/Kludex/uvicorn)** ([#3250](https://github.com/Kludex/uvicorn/pull/3250)): ASGI 3.0 lifespan adapter supporting `@asynccontextmanager` and async generator app factories with 100% coverage.
-- **[Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry)** ([#4784](https://github.com/strawberry-graphql/strawberry/pull/4784)): Relay `ConnectionExtension` offset pagination support with full backward compatibility.
+- **[OpenHMD (`#370`)](https://github.com/OpenHMD/OpenHMD/pull/370)** *(Merged)*: HTC Vive Pro 2 USB ID & 32-byte HID feature report initialization.
+- **[Litestar Advanced Alchemy (`#836`)](https://github.com/litestar-org/advanced-alchemy/pull/836)**: 4-layer Sync, Async, Mock & Service repository `KeyError` handling with 100.0% Codecov patch coverage.
