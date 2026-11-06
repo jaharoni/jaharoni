@@ -36,8 +36,7 @@
 
   <!-- Name & Dual Mandate -->
   <g transform="translate(55, 112)">
-    <text x="0" y="0" fill="#FFFFFF" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="44" font-weight="800" letter-spacing="-1">Justin Aharoni</text>
-    <text x="335" y="-2" fill="#D4AF37" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" font-weight="600">@jaharoni</text>
+    <text x="0" y="0"><tspan fill="#FFFFFF" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="42" font-weight="800" letter-spacing="-0.8">Justin Aharoni</tspan><tspan fill="#D4AF37" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="600" dx="18" dy="-4">@jaharoni</tspan></text>
 
     <text x="0" y="34" fill="#CBD5E1" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="400">
       Founder &amp; Principal Systems Architect at WholeTroutMedia / Inception Engine Systems  ·  Visual Storyteller &amp; Director
