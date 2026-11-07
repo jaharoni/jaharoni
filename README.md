@@ -4,30 +4,31 @@
 
 ### Justin Aharoni (`@jaharoni`)
 **Principal Systems & AI Architect · Creative Technologist & Visual Storyteller**  
-New York · [justinaharoni.com](https://justinaharoni.com) · [Medium Essays](https://medium.com/@jaharoni) · [Calendar & Intake](https://justinaharoni.com/contact) · [@WholeTroutMedia](https://github.com/WholeTroutMedia) · [Hugging Face](https://huggingface.co/jaharoni) · [LinkedIn](https://www.linkedin.com/in/justinaharoni)
+New York · [justinaharoni.com](https://justinaharoni.com) · [Medium Essays](https://medium.com/@jaharoni) · [Contact](https://justinaharoni.com/contact) · [@WholeTroutMedia](https://github.com/WholeTroutMedia) · [Hugging Face](https://huggingface.co/jaharoni) · [LinkedIn](https://www.linkedin.com/in/justinaharoni)
 
 Architecting high-concurrency distributed systems, applied AI & Model Context Protocol (MCP) infrastructure, spatial computing pipelines, and visual storytelling across Python, Rust, Go, TypeScript/React, C/C++, and Ruby.
 
 ---
 
-### Executive & Studio Directory
+### Open-Source & Creative Directory
 
 | Channel | Canonical Destination | Scope |
 | :--- | :--- | :--- |
-| **Personal Portfolio & Studio** | **[justinaharoni.com](https://justinaharoni.com)** | Commercial photography, filmmaking, essays & fine art |
+| **Personal Website & Studio** | **[justinaharoni.com](https://justinaharoni.com)** | Architecture, commercial photography, filmmaking, essays & fine art |
 | **Field Notes & Engineering Essays** | **[medium.com/@jaharoni](https://medium.com/@jaharoni)** | Systems engineering field reports, open-source maintainer studies & essays ([RSS Feed](https://medium.com/feed/@jaharoni)) |
-| **Studio Calendar & Project Intake** | **[justinaharoni.com/contact](https://justinaharoni.com/contact)** | Live discovery scheduling, creative briefs & studio contact |
-| **Open-Source Engineering Foundry** | **[WholeTroutMedia/open-source-bounties](https://github.com/WholeTroutMedia/open-source-bounties)** | `100.0%` patch-covered upstream PRs, `105+` case studies & sprints |
-| **Reference Micro-Applications** | **[WholeTroutMedia/inception-engine-applications](https://github.com/WholeTroutMedia/inception-engine-applications)** | Zero-dependency Python/CLI & agent-native (`llms.txt` / MCP) tools |
-| **Interactive Verification Workbench** | **[wholetroutmedia.github.io/oss-verification-sandbox](https://wholetroutmedia.github.io/oss-verification-sandbox/)** | Browser testbed for UTF-8 stream framing, ASGI lifespans & PR audits |
-| **Direct Engineering & Studio Email** | **[`contact@jaharoni.com`](mailto:contact@jaharoni.com)** | Enterprise backlog sprints, open-source triage & creative commissions |
-| **Studio Locations** | **New York · North Fork / Hudson Valley · Worldwide** | On-location production & global distributed systems engineering |
+| **Creative Liberation Engine** | **[WholeTroutMedia/creative-liberation-engine](https://github.com/WholeTroutMedia/creative-liberation-engine)** | Open creative foundation + 6 zero-dependency Python stdlib community gifts |
+| **Open-Source Engineering Ledger** | **[WholeTroutMedia/open-source-bounties](https://github.com/WholeTroutMedia/open-source-bounties)** | `100.0%` patch-covered upstream PRs, `105+` root-cause case studies & bot-defense shield |
+| **Reference Micro-Tools** | **[WholeTroutMedia/open-source-micro-tools](https://github.com/WholeTroutMedia/open-source-micro-tools)** | Zero-dependency Python/CLI & agent-native (`llms.txt` / MCP) reference utilities |
+| **Interactive Verification Workbench** | **[wholetroutmedia.github.io/oss-verification-sandbox](https://wholetroutmedia.github.io/oss-verification-sandbox/)** | Client-side browser testbed for UTF-8 stream framing, ASGI lifespans & PR audits |
+| **Contact & Collaboration** | **[justinaharoni.com/contact](https://justinaharoni.com/contact)** · **[`contact@jaharoni.com`](mailto:contact@jaharoni.com)** | Open-source collaboration, creative inquiries & community support |
 | **Community & Social** | [Medium](https://medium.com/@jaharoni) · [LinkedIn](https://www.linkedin.com/in/justinaharoni) · [Instagram](https://instagram.com/justinaharoni) · [X](https://x.com/justinaharoni) · [Google AI Forum (`@CORTEX`)](https://discuss.ai.google.dev/u/CORTEX) | Essays, visual work & developer community solutions |
 
 ---
 
 ### Field Notes & Engineering Essays ([`medium.com/@jaharoni`](https://medium.com/@jaharoni))
 
+- **[Supporting Async Context Manager App Factories in Uvicorn Without Breaking ASGI Lifespan](https://medium.com/@jaharoni/supporting-async-context-manager-app-factories-in-uvicorn-without-breaking-asgi-lifespan-23889b42794f)**: How we bridged synchronous
+- **[Multi-Node Prefill-Decode Disaggregation in vLLM: Avoiding TCP Fallbacks Across NCCL and RDMA](https://medium.com/@jaharoni/multi-node-prefill-decode-disaggregation-in-vllm-avoiding-tcp-fallbacks-across-nccl-and-rdma-18c732c59097)**: Editorial Translation Note:
 - **[871 Unverified Pull Requests in One Week: What Automated PR Spam Is Costing Open-Source Maintainers](https://medium.com/@jaharoni/871-unverified-pull-requests-in-one-week-what-automated-pr-spam-is-costing-open-source-maintainers-3dc35ec95882)**: A field look at 26 automated accounts across 15 operator clusters generating 871 pull requests across public repositories, why standard platform filters are struggling to help, and how builders can keep verification on their own local machines before touching a maintainer’s queue.
 
 ---
