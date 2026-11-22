@@ -4,7 +4,7 @@
 
 ### Justin Aharoni (`@jaharoni`)
 **Principal Systems & AI Architect · Creative Technologist & Visual Storyteller**  
-New York · [justinaharoni.com](https://justinaharoni.com) · [Medium Essays](https://medium.com/@jaharoni) · [Contact](https://justinaharoni.com/contact) · [@WholeTroutMedia](https://github.com/WholeTroutMedia) · [Hugging Face](https://huggingface.co/jaharoni) · [LinkedIn](https://www.linkedin.com/in/justinaharoni)
+New York · [justinaharoni.com](https://justinaharoni.com) · [Inception Engine Systems](https://inceptionengine.systems) · [Medium Essays](https://medium.com/@jaharoni) · [Contact](https://justinaharoni.com/contact) · [@WholeTroutMedia](https://github.com/WholeTroutMedia) · [Hugging Face](https://huggingface.co/jaharoni) · [LinkedIn](https://www.linkedin.com/in/justinaharoni)
 
 Architecting high-concurrency distributed systems, applied AI & Model Context Protocol (MCP) infrastructure, spatial computing pipelines, and visual storytelling across Python, Rust, Go, TypeScript/React, C/C++, and Ruby.
 
@@ -15,21 +15,23 @@ Architecting high-concurrency distributed systems, applied AI & Model Context Pr
 | Channel | Canonical Destination | Scope |
 | :--- | :--- | :--- |
 | **Personal Website & Studio** | **[justinaharoni.com](https://justinaharoni.com)** | Architecture, commercial photography, filmmaking, essays & fine art |
+| **Inception Engine Systems** | **[inceptionengine.systems](https://inceptionengine.systems)** | Independent creative technology, applied intelligence, cinema & spatial systems lab |
 | **Field Notes & Engineering Essays** | **[medium.com/@jaharoni](https://medium.com/@jaharoni)** | Systems engineering field reports, open-source maintainer studies & essays ([RSS Feed](https://medium.com/feed/@jaharoni)) |
-| **Creative Liberation Engine** | **[WholeTroutMedia/creative-liberation-engine](https://github.com/WholeTroutMedia/creative-liberation-engine)** | Open creative foundation + 6 zero-dependency Python stdlib community gifts |
-| **Open-Source Engineering Ledger** | **[WholeTroutMedia/open-source-bounties](https://github.com/WholeTroutMedia/open-source-bounties)** | `100.0%` patch-covered upstream PRs, `105+` root-cause case studies & bot-defense shield |
+| **Open-Source Engineering Ledger** | **[WholeTroutMedia/open-source-bounties](https://github.com/WholeTroutMedia/open-source-bounties)** | `100.0%` patch-covered upstream PRs, root-cause case studies & bot-defense shield |
 | **Reference Micro-Tools** | **[WholeTroutMedia/open-source-micro-tools](https://github.com/WholeTroutMedia/open-source-micro-tools)** | Zero-dependency Python/CLI & agent-native (`llms.txt` / MCP) reference utilities |
 | **Interactive Verification Workbench** | **[wholetroutmedia.github.io/oss-verification-sandbox](https://wholetroutmedia.github.io/oss-verification-sandbox/)** | Client-side browser testbed for UTF-8 stream framing, ASGI lifespans & PR audits |
 | **Contact & Collaboration** | **[justinaharoni.com/contact](https://justinaharoni.com/contact)** · **[`contact@jaharoni.com`](mailto:contact@jaharoni.com)** | Open-source collaboration, creative inquiries & community support |
-| **Community & Social** | [Medium](https://medium.com/@jaharoni) · [LinkedIn](https://www.linkedin.com/in/justinaharoni) · [Instagram](https://instagram.com/justinaharoni) · [X](https://x.com/justinaharoni) · [Google AI Forum (`@CORTEX`)](https://discuss.ai.google.dev/u/CORTEX) | Essays, visual work & developer community solutions |
+| **Community & Social** | [Medium](https://medium.com/@jaharoni) · [LinkedIn](https://www.linkedin.com/in/justinaharoni) · [Instagram](https://instagram.com/justinaharoni) · [X](https://x.com/justinaharoni) | Essays, visual work & developer community notes |
 
 ---
 
 ### Field Notes & Engineering Essays ([`medium.com/@jaharoni`](https://medium.com/@jaharoni))
 
-- **[Supporting Async Context Manager App Factories in Uvicorn Without Breaking ASGI Lifespan](https://medium.com/@jaharoni/supporting-async-context-manager-app-factories-in-uvicorn-without-breaking-asgi-lifespan-23889b42794f)**: How we bridged synchronous
-- **[Multi-Node Prefill-Decode Disaggregation in vLLM: Avoiding TCP Fallbacks Across NCCL and RDMA](https://medium.com/@jaharoni/multi-node-prefill-decode-disaggregation-in-vllm-avoiding-tcp-fallbacks-across-nccl-and-rdma-18c732c59097)**: Editorial Translation Note:
-- **[871 Unverified Pull Requests in One Week: What Automated PR Spam Is Costing Open-Source Maintainers](https://medium.com/@jaharoni/871-unverified-pull-requests-in-one-week-what-automated-pr-spam-is-costing-open-source-maintainers-3dc35ec95882)**: A field look at 26 automated accounts across 15 operator clusters generating 871 pull requests across public repositories, why standard platform filters are struggling to help, and how builders can keep verification on their own local machines before touching a maintainer’s queue.
+- **[Teaching Robots to Prune Grapevines: Pairing Vision-Language-Action (VLA) Models With 500 Hz…](https://medium.com/@jaharoni/teaching-robots-to-prune-grapevines-pairing-vision-language-action-vla-models-with-500-hz-9e9a5091cb13)**: Teaching Robots to Prune Grapevines: Pairing Vision-Language-Action (VLA) Models With 500 Hz Impedance Control in ROS 2.
+- **[Running Rust wgpu and winit Graphics Apps on NixOS: Solving Dynamic dlopen Lookup for Vulkan and…](https://medium.com/@jaharoni/running-rust-wgpu-and-winit-graphics-apps-on-nixos-solving-dynamic-dlopen-lookup-for-vulkan-and-a0290e2a2f86)**: Running Rust wgpu and winit Graphics Apps on NixOS: Solving Dynamic dlopen Lookup for Vulkan and Wayland.
+- **[Structuring Modular Launch Files in ROS 2: Subsystem Composition, YAML Parameter Profiles, and…](https://medium.com/@jaharoni/structuring-modular-launch-files-in-ros-2-subsystem-composition-yaml-parameter-profiles-and-e6bccdbb7dcc)**: Structuring Modular Launch Files in ROS 2: Subsystem Composition, YAML Parameter Profiles, and OpaqueFunction.
+- **[Stopping Charge Sloshing in Transition-Metal Oxide Slabs: A Two-Stage DFT+U Convergence Protocol in…](https://medium.com/@jaharoni/stopping-charge-sloshing-in-transition-metal-oxide-slabs-a-two-stage-dft-u-convergence-protocol-in-e14334560a61)**: Stopping Charge Sloshing in Transition-Metal Oxide Slabs: A Two-Stage DFT+U Convergence Protocol in VASP and pymatgen.
+- **[Computing Finite-Temperature Phase Diagrams and Energy Above Hull in Pymatgen With SISSO Gibbs…](https://medium.com/@jaharoni/computing-finite-temperature-phase-diagrams-and-energy-above-hull-in-pymatgen-with-sisso-gibbs-b040d9c533c4)**: Computing Finite-Temperature Phase Diagrams and Energy Above Hull in Pymatgen With SISSO Gibbs Descriptors.
 
 ---
 
